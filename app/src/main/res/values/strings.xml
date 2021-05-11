@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sample</string>
+    <string name="enter_username">Enter username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="submit">Submit</string>
+    <string name="username_error">Username should be minimum 8 characters long, should contain characters and digits only.</string>
+    <string name="password_error">Password should be minimum 8 characters long, should contain at least one capital letter and one number.</string>
+    <string name="login_success">Login Success</string>
+    <string name="login_failed">Login Failed. Invalid Username or Password</string>
+
+</resources>
